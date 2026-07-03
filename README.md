@@ -409,3 +409,9 @@ Permission is hereby granted to use Sideband in binary form, for any and all pur
 
 
 *Device screenshots generated with [deviceframes](https://deviceframes.com). Thanks!*
+
+
+# TODO:
+- [ ] Add ru lang
+- [ ] Calculator icon (config)
+- [ ] Calculator name (config)
